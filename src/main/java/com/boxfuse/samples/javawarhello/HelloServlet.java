@@ -9,6 +9,7 @@ public class HelloServlet extends HttpServlet {
     @Override
     public void init() throws ServletException {
         System.out.println("HelloServlet: You should see this in the Instance Logs :-)");
+  }
        private void repeatedCode(){
          printMe();
         }
@@ -19,5 +20,5 @@ public class HelloServlet extends HttpServlet {
       private void printMe(){
        System.out.println("called");
       } 
-  }
 }
+
