@@ -19,6 +19,9 @@ public class HelloServlet extends HttpServlet {
 
       private void printMe(){
        System.out.println("called");
+          } 
+          private void printMe(){
+       System.out.println("called");
       } 
 }
 
