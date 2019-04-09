@@ -2,7 +2,7 @@
 <head>
     <title>Boxfuse Sample App: successfully started!</title>
 </head>
-<body style="text-align: center">
+<body style="text-align: center; background-color:blue;">
 <h1>Congratulations!</h1>
 <img src="boxfuse.png">
 
